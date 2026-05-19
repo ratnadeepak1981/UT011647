@@ -1,0 +1,14 @@
+Z:\BackEnd\CSharp\LearnLists\LearnLists\bin\Debug\net8.0\LearnLists.exe
+Z:\BackEnd\CSharp\LearnLists\LearnLists\bin\Debug\net8.0\LearnLists.deps.json
+Z:\BackEnd\CSharp\LearnLists\LearnLists\bin\Debug\net8.0\LearnLists.runtimeconfig.json
+Z:\BackEnd\CSharp\LearnLists\LearnLists\bin\Debug\net8.0\LearnLists.dll
+Z:\BackEnd\CSharp\LearnLists\LearnLists\bin\Debug\net8.0\LearnLists.pdb
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.AssemblyInfoInputs.cache
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.AssemblyInfo.cs
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.csproj.CoreCompileInputs.cache
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.dll
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\refint\LearnLists.dll
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.pdb
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\LearnLists.genruntimeconfig.cache
+Z:\BackEnd\CSharp\LearnLists\LearnLists\obj\Debug\net8.0\ref\LearnLists.dll
