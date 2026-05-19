@@ -1,0 +1,14 @@
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.AssemblyInfoInputs.cache
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.AssemblyInfo.cs
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.csproj.CoreCompileInputs.cache
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\bin\Debug\net8.0\Day3_Activity3_Console.exe
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\bin\Debug\net8.0\Day3_Activity3_Console.deps.json
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\bin\Debug\net8.0\Day3_Activity3_Console.runtimeconfig.json
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\bin\Debug\net8.0\Day3_Activity3_Console.dll
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\bin\Debug\net8.0\Day3_Activity3_Console.pdb
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.dll
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\refint\Day3_Activity3_Console.dll
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.pdb
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\Day3_Activity3_Console.genruntimeconfig.cache
+Z:\BackEnd\CSharp\Day3_Activity\Day3_Activity3_Console\obj\Debug\net8.0\ref\Day3_Activity3_Console.dll
