@@ -1,0 +1,14 @@
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\bin\Debug\net8.0\ConsoleBankApplication.exe
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\bin\Debug\net8.0\ConsoleBankApplication.deps.json
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\bin\Debug\net8.0\ConsoleBankApplication.runtimeconfig.json
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\bin\Debug\net8.0\ConsoleBankApplication.dll
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\bin\Debug\net8.0\ConsoleBankApplication.pdb
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.AssemblyInfoInputs.cache
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.AssemblyInfo.cs
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.csproj.CoreCompileInputs.cache
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.dll
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\refint\ConsoleBankApplication.dll
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.pdb
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ConsoleBankApplication.genruntimeconfig.cache
+Z:\BackEnd\CSharp\Console Bank Application\ConsoleBankApplication\ConsoleBankApplication\obj\Debug\net8.0\ref\ConsoleBankApplication.dll
